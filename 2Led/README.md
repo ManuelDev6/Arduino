@@ -1,7 +1,8 @@
+# Arduino-2Led
 Uno sketch Arduino che accende ad alternanza di 1 secondo 2 led.
 <br>
 
-Materiale utilizzato:
+## Materiale utilizzato
 
 * Scheda Arduino
 * Breadboard
