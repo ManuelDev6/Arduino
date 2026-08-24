@@ -1,7 +1,8 @@
+# Arduino-Semaforo
 Uno sketch Arduino che simula un classico semaforo.
 <br>
 
-Materiale utilizzato:
+## Materiale utilizzato
 
 * Scheda Arduino
 * Breadboard
